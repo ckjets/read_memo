@@ -1,0 +1,61 @@
+<mxfile host="65bd71144e" modified="2020-10-21T08:23:15.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.49.2 Chrome/83.0.4103.122 Electron/9.2.1 Safari/537.36" version="13.6.5" etag="AhqWFzPiUk45SP2Jhn3L">
+    <diagram id="BqvkW-crsuU3co_q6zJ_" name="ページ2">
+        <mxGraphModel dx="1284" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" math="0" shadow="0">
+            <root>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-0"/>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-1" parent="ZENRKCP4uXFbngLtDDsD-0"/>
+                <mxCell id="oJJ4jdCcf2JahNiy-EhA-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="30" y="30" width="620" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-3" value="&lt;span style=&quot;font-size: 24px&quot;&gt;192&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="80" y="60" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-5" value="&lt;span style=&quot;font-size: 24px&quot;&gt;0&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="240" y="60" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-6" value="&lt;span style=&quot;font-size: 24px&quot;&gt;2&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="400" y="60" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-7" value="&lt;span style=&quot;font-size: 24px&quot;&gt;1&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="540" y="60" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-8" value="&lt;span style=&quot;font-size: 24px&quot;&gt;11000000&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="50" y="100" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-9" value="&lt;span style=&quot;font-size: 24px&quot;&gt;00000000&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="195" y="100" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-10" value="&lt;span style=&quot;font-size: 24px&quot;&gt;00000010&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="355" y="100" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-11" value="&lt;span style=&quot;font-size: 24px&quot;&gt;00000001&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="495" y="100" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="160" as="sourcePoint"/>
+                        <mxPoint x="480" y="70" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-23" value="8ビット" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="80" y="140" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-24" value="8ビット" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="225" y="140" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-25" value="8ビット" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="385" y="140" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-26" value="24ビット" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="460" y="180" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-27" value="ネットワーク部" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="160" y="200" width="145" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZENRKCP4uXFbngLtDDsD-28" value="ホスト部" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZENRKCP4uXFbngLtDDsD-1">
+                    <mxGeometry x="495" y="200" width="145" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
